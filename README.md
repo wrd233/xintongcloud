@@ -32,6 +32,7 @@
 
 - `assets/reference/乘乘形象.png`：乘乘角色参考图。
 - `assets/reference/乘乘正侧面示意图.png`：乘乘角色标准正侧面设定图。
+- `assets/reference/信通云logo.png`：信通云品牌 logo 参考图。
 - `assets/reference/办公室整体示意图.png`：剧情办公室场景总参考图。
 - `assets/reference/基层男员工正侧面示意图.png`：基层男员工角色标准正侧面设定图。
 
